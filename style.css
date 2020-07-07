@@ -1,0 +1,45 @@
+.container-fluid{
+    padding: 0 100px;
+    
+}
+.back-color{
+    background-color: rgb(209, 228, 209);
+}
+.img-fluid{
+    width: 100px;
+    margin-top: 30px;
+}
+.nav-link{
+    font-weight: 700;
+}
+.btn-success{
+    border-radius: 50px;
+}
+.fnt-size{
+    font-size: 12px;
+}
+.card, .box-shdw{
+    box-shadow: 8px 8px 10px lightgrey;
+}
+.left-gap{
+    margin-left: 50px;
+}
+.man{
+    float: right;
+}
+.text-left{
+    text-align: left;
+    width: 40%;
+    margin: auto;
+}
+.margin-btm{
+    margin-bottom: 50px;
+}
+footer{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.mrg{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
