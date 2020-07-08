@@ -1,9 +1,12 @@
 .container-fluid{
-    padding: 0 170px;
-    
+    padding: 0 170px;  
 }
+
 .back-color{
-    background-color: rgb(209, 228, 209);
+    background-color:  #F0FFF0;
+}
+.book-back-color{
+    background-color:  #F8FFFB;
 }
 .img-fluid{
     width: 100px;
